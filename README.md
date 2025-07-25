@@ -1,4 +1,7 @@
-Jira data center project
+# Jira data center project
+
+### Project Documentation link
+https://eu.docworkspace.com/d/sIITam9SoAtCIj8QG?sa=601.1037
 
 # 3 EC2 instances
 # name them, controlnode, workernode1 and workernode2
